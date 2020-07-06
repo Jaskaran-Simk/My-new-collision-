@@ -1,2 +1,2 @@
-# My-new-collision-
-i created to new way to check collision
+# p5.play-boilerplate
+Boiler plate for p5.play
